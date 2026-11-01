@@ -12,7 +12,6 @@ A no-frills toolkit — read the source, it's short. Work in progress.
 
 
 ## Project structure
-
 ```
 .
 ├── .github/
@@ -24,6 +23,7 @@ A no-frills toolkit — read the source, it's short. Work in progress.
 ├── .gitignore
 ├── CHANGELOG.md
 ├── LICENSE
+├── README.md
 ├── install.sh
 └── run.sh
 ```
@@ -31,8 +31,9 @@ A no-frills toolkit — read the source, it's short. Work in progress.
 ## Usage
 
 ```bash
-make run
+./run.sh --verbose
 ```
+
 
 ## Notes
 
